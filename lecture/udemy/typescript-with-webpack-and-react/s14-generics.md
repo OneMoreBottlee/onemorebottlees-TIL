@@ -42,7 +42,7 @@ console.log(btn)
 
 **첫 번째 제네릭 작성하기**
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 숫자를 넣으면 숫자가, 문자를 넣으면 문자가, 불리언을 넣으면 불리언이
 
@@ -50,7 +50,7 @@ console.log(btn)
 
 위와 같이 각 타입별로 하나씩 입력하거나
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 any 로 처리 해야된다.
 
@@ -58,7 +58,7 @@ any 로 처리 해야된다.
 
 이러한 상황에서 제너릭을 사용한다.
 
-<figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 입력하는 타입과 출력하는 타입이 같다.
 
@@ -74,9 +74,9 @@ any 로 처리 해야된다.
 
 입력값의 타입이 확실하지 않을때 제너릭을 사용한다.
 
-<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -84,9 +84,9 @@ any 로 처리 해야된다.
 
 타입스크립트는 추론으로 타입을 확인할 수 있기에 위와 같이 타입 값을 일일이 넣지 않아도 된다.
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 입력값이 명확하다면 타입스크립트의 추론을 믿고, 불분명하다면 제너릭을 넣는게 좋다.
 
@@ -94,7 +94,7 @@ any 로 처리 해야된다.
 
 **제너릭, 화살표 함수 및 TSX 파일**
 
-<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 React, TS, 화살표 함수를 사용한다면 , 를 기억하자
 
@@ -104,19 +104,19 @@ React, TS, 화살표 함수를 사용한다면 , 를 기억하자
 
 타입이 여러개인 제너릭이 필요한 경우 다음과 같이 설정한다.
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 예) 두 객체를 합치는 함수
 
 T, U 를 하나의 제너릭에 넣고 분배
 
-<figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **타입 제한 추가하기**
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
@@ -126,7 +126,7 @@ T, U 를 하나의 제너릭에 넣고 분배
 
 이런 일을 방지하고자 타입을 제한할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 extends 타입 을 추가하면서 에러가 발생하게 된다.
 
@@ -138,7 +138,7 @@ extends 타입 을 추가하면서 에러가 발생하게 된다.
 
 length 가 없기에 인터페이스를 추가한다.
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 에러가 사라진다.
 
@@ -148,7 +148,7 @@ length 가 없기에 인터페이스를 추가한다.
 
 타입 파라미터에 기본값을 설정할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
@@ -162,4 +162,4 @@ length 가 없기에 인터페이스를 추가한다.
 
 제너릭을 사용해 클래스를 만들 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>

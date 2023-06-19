@@ -79,15 +79,15 @@ useRouter
 
 현재 위치한 페이지의 location 정보를 확인할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 이 기능을 활용해 현재 위치한 nav를 보여줄 수 있음
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -98,7 +98,7 @@ NextJS에 CSS를 추가하는 방법
 1. style
 2. Module 이름.module.css 라는 이름의 파일에 원하는 스타일을 작성한다.
 
-![](<../../../.gitbook/assets/image (52).png>)![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (153).png>)![](<../../../.gitbook/assets/image (23).png>)
 
 ![](<../../../.gitbook/assets/image (2).png>)
 
@@ -110,7 +110,7 @@ NextJS에 CSS를 추가하는 방법
 
 className={”이름1 이름2”} 와 같은 형태가 되야되기에 백틱으로 연결하거나 배열을 join하는 방법을 이용함
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 ### **#1.5 Style JSX**
 
@@ -118,13 +118,13 @@ NextJS에 CSS를 추가하는 방법
 
 3. JSX style 태그에 JSX를 추가해 원하는 스타일을 추가한다. 부모 컴포넌트에서 같은 클래스네임을 사용하고 있더라도 적용되지 않음 ⇒ 클래스네임이 랜덤으로 정해지기 때문에
 
-<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 ### **#1.6 Custom App**
 
 **Global** **Style**
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 jsx global을 설정하면 글로벌 스타일이 설정됨
 

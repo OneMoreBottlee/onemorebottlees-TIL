@@ -12,7 +12,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S13
 
 **Readonly**
 
-![](<../../../.gitbook/assets/image (112).png>)
+![](<../../../.gitbook/assets/image (68).png>)
 
 Class 에서도 Readonly 설정 가능
 
@@ -30,7 +30,7 @@ readonly 는 못바꿈
 
 
 
-![](<../../../.gitbook/assets/image (67).png>)
+![](<../../../.gitbook/assets/image (111).png>)
 
 Private 클래스 외부에서 변경, 접근, 쓰기 불가능하게 설정
 
@@ -44,7 +44,7 @@ JS 의 클래스 - 런타임에 작동
 
 **단축 구문**
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 파라미터 프로퍼티 단축 구문을 사용할 수 있음
 
@@ -52,7 +52,7 @@ JS 의 클래스 - 런타임에 작동
 
 **Getter / Setter**
 
-![](<../../../.gitbook/assets/image (62).png>)
+![](<../../../.gitbook/assets/image (106).png>)
 
 TS의 Getter / Setter는 JS와 같다.
 
@@ -72,7 +72,7 @@ private 설정은 외부 액세스와 자식 클래스에서도 액세스를 금
 
 
 
-![](<../../../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (119).png>)
 
 외부 액세스는 방지하지만, 자식 클래스에서의 액세스는 허용한다.
 
@@ -80,7 +80,7 @@ private 설정은 외부 액세스와 자식 클래스에서도 액세스를 금
 
 **Interface**
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 인터페이스 설정 가능하다
 
@@ -96,7 +96,7 @@ private 설정은 외부 액세스와 자식 클래스에서도 액세스를 금
 
 기능과 타입 설정을 함께 하는 일종의 하이브리드
 
-<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 인스턴스화는 못하지만 abstract 키워드를 붙여 메서드를 필수로 표시하고 자식 클래스에서 해당 메서드를 반드시 시행하도록 설정할 수 있다.
 
