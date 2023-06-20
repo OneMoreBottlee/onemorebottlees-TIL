@@ -10,4 +10,4 @@ description: 2022.09.02 - 2022.09.03
 
 22.09.05 깃허브 배포 성공
 
-<figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
