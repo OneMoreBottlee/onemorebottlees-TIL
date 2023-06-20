@@ -20,9 +20,9 @@ ES6 이후 import/export 를 사용함
 
 **Module**
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ JS는 export나 최상위 await 가 없는 파일을 모듈이 아닌 스크립�
 
 <figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 원본에 export 를 추가하면 모듈로 인식되어 참고하는 곳에서 import 를 사용해야 한다.
 
@@ -44,25 +44,25 @@ JS는 export나 최상위 await 가 없는 파일을 모듈이 아닌 스크립�
 
 이를 HTML로 브라우저에서 띄워보면 에러가 발생한다.
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 이는 브라우저 내의 JS 가 Common JS 모듈을 이해하지 못해 발생하는 에러다.
 
 (import, export, 모듈 등등 Node.js 에서 사용한 개념을 이해하지 못함)
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 이럴때 tsconfig.json 파일에서 module 설정을 ES6 이후로 변경해주면 다음과 같은 에러로 변경된다.
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 이럴때 html 파일에서 모듈의 타입을 설정해주면
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 에러가 사라지면서 정상적으로 작동한다.
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 브라우저에서 모듈을 사용하기 위한 과정이다.
 

@@ -79,6 +79,7 @@
   * [29장 Math](book/deep-dive/29-math.md)
   * [30장 Date](book/deep-dive/30-date.md)
   * [31장 RegExp](book/deep-dive/31-regexp.md)
+  * [32장 String](book/deep-dive/32-string.md)
 
 ## 💻 Study
 
