@@ -12,7 +12,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S12
 
 인스턴스화 가능하다.
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 변수명 앞에 #을 붙이면 Private 설정. 클래스 외부에서 호출 불가능함
 
@@ -28,7 +28,7 @@ constructor - 생성자. 객체 생성시 호출됨
 
 Getter
 
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (41).png>)
 
 get 함수명(){}
 
@@ -38,11 +38,11 @@ get 함수명(){}
 
 Setter
 
-![](<../../../.gitbook/assets/image (110).png>)
+![](<../../../.gitbook/assets/image (111).png>)
 
 즉각적으로 값을 변경하는 프로퍼티와 달리 조건부로 변경하는등 통제할 수 있다.
 
-![](<../../../.gitbook/assets/image (55).png>)![](<../../../.gitbook/assets/image (70).png>)![](<../../../.gitbook/assets/image (41).png>)
+![](<../../../.gitbook/assets/image (61).png>)![](<../../../.gitbook/assets/image (77).png>)![](<../../../.gitbook/assets/image (48).png>)
 
 SON HM ⇒ Kim MJ 변경 완료
 
@@ -52,7 +52,7 @@ SON HM ⇒ Kim MJ 변경 완료
 
 개별 인스턴스가 아닌 클래스 차원에서 사용할 기능 설정할때 사용
 
-![](<../../../.gitbook/assets/image (80).png>)![](<../../../.gitbook/assets/image (60).png>)
+![](<../../../.gitbook/assets/image (87).png>)![](<../../../.gitbook/assets/image (65).png>)
 
 
 
@@ -60,7 +60,7 @@ SON HM ⇒ Kim MJ 변경 완료
 
 확장.
 
-![](<../../../.gitbook/assets/image (112).png>)![](<../../../.gitbook/assets/image (43).png>)
+![](<../../../.gitbook/assets/image (114).png>)![](<../../../.gitbook/assets/image (49).png>)
 
 Player 의 모든 메서드, 프로퍼티 사용 가능
 
@@ -70,5 +70,5 @@ Player 의 모든 메서드, 프로퍼티 사용 가능
 
 자식 클래스에 생성자를 추가할 때 사용
 
-![](<../../../.gitbook/assets/image (28).png>)![](<../../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (36).png>)![](<../../../.gitbook/assets/image (84).png>)
 
