@@ -90,6 +90,7 @@
   * [30장 Date](book/deep-dive/30-date.md)
   * [31장 RegExp](book/deep-dive/31-regexp.md)
   * [32장 String](book/deep-dive/32-string.md)
+  * [33장 7번째 데이터 타입 Symbol](book/deep-dive/33-7-symbol.md)
 
 ## 💻 Study
 
