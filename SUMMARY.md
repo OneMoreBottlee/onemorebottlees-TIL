@@ -92,6 +92,7 @@
   * [31장 RegExp](book/deep-dive/31-regexp.md)
   * [32장 String](book/deep-dive/32-string.md)
   * [33장 7번째 데이터 타입 Symbol](book/deep-dive/33-7-symbol.md)
+  * [34장 이터러블](book/deep-dive/34.md)
 
 ## 💻 Study
 
