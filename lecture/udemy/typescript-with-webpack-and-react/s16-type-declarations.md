@@ -16,15 +16,15 @@ TS 는 이 파일에서 설정된 타입을 확인한다.
 
 axios > index.d.ts
 
-<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption><p>User</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption><p>User</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption><p>Users</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Users</p></figcaption></figure>
 
 
 
 **Lodash**
 
-<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 JS 에서 라이브러리를 인스톨할때 .d.ts 파일이 없는 라이브러리도 있다.
 
@@ -34,4 +34,4 @@ JS 에서 라이브러리를 인스톨할때 .d.ts 파일이 없는 라이브러
 npm i --save-dev @types/lodash
 ```
 
-<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>

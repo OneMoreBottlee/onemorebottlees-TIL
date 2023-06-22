@@ -18,7 +18,7 @@ TS는 문서 객체의 타입을 자동으로 확인한다.
 
 **Type Assertions 타입 단언**
 
-<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 TS에 선언하는 것
 

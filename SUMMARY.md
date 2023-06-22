@@ -27,6 +27,7 @@
     * [#1 Introduction](lecture/nomad-coders/typescript/1-introduction.md)
     * [#2 Overview of TypeScript](lecture/nomad-coders/typescript/2-overview-of-typescript.md)
     * [#3 Functions](lecture/nomad-coders/typescript/3-functions.md)
+    * [#4 Classes and Interfaces](lecture/nomad-coders/typescript/4-classes-and-interfaces.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)

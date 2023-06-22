@@ -6,7 +6,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 레이아웃을 설정해 \_app 파일에 적용하면 통일된 디자인 패턴을 적용할 수 있다.
 
@@ -14,17 +14,17 @@
 
 **Header**
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 헤더를 설정해 타이틀을 설정할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 파일별로 지정할 필요없이 따로 컴포넌트를 만들어 Layout에 적용해주면 편하다.
 
@@ -40,7 +40,7 @@ public의 이미지를 사용하려면 \<img src="/vercel.svg" /> 와 같이 사
 
 **API Keys**
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 react와 같음
 
@@ -52,13 +52,13 @@ react와 같음
 
 **Redirect**
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 특정 url 방문한 경우 원하는 url로 리다이렉트 시킬 수 있음
 
 **Rewrite**
 
-![](<../../../.gitbook/assets/image (89).png>)![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (57).png>)![](<../../../.gitbook/assets/image (82).png>)
 
 URL 변환 없이 내용을 변환함
 
@@ -94,7 +94,7 @@ API 주소와 같이 비밀로 할 내용을 숨길 수 있음
 
 위 url이 필요하다면 index.js를 추가한다.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 /movies/1
 
@@ -106,15 +106,15 @@ API 주소와 같이 비밀로 할 내용을 숨길 수 있음
 
 **onClick 이나 Link 로 이동할 URL을 설정 할 수 있음**
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 as 기능 && rewrites 설정 추가 ⇒ url 을 가릴 수 있음
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 url에 정보를 숨켜 props로 내림, url에는 제목이 포함되어 있지만 유저들은 확인할 수 없음
 
@@ -124,24 +124,24 @@ url에 정보를 숨켜 props로 내림, url에는 제목이 포함되어 있지
 
 **CathAllURL**
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (49).png>)
 
 다양한 url 정보를 추가할때 파일명 변경.
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 영화 제목과 id를 url에 추가하고, 이 정보를 활용해 서버에서 렌더링 작업을 할 수 있음 ⇒ SEO 효과적
 
 아래 사진의 상단 부분은 client에서 작업하는 부분이다. 그래서 페이지 이동시 api로 데이터를 받아오는 과정이 필요하기에 loading이 필요하다. 하단은 서버에서 정보를 얻고 렌더링할때 사용하는 부분이다. 따라서 loading 없이 렌더링할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### **#2.8 404 Pages**
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 pages 폴더에 404.js 를 만들고 404페이지에서 보여줄 내용을 추가한다.

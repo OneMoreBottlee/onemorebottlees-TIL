@@ -6,7 +6,7 @@ coverY: 0
 
 # 모던 자바스크립트 Deep Dive
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 자바스크립트의 기본을 공부하고, 모르는 부분을 찾기 위해 읽기 시작한 책.
 
