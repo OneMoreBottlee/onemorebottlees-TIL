@@ -44,7 +44,7 @@ JS 의 클래스 - 런타임에 작동
 
 **단축 구문**
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 파라미터 프로퍼티 단축 구문을 사용할 수 있음
 
@@ -52,7 +52,7 @@ JS 의 클래스 - 런타임에 작동
 
 **Getter / Setter**
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (7).png>)
 
 TS의 Getter / Setter는 JS와 같다.
 
@@ -72,7 +72,7 @@ private 설정은 외부 액세스와 자식 클래스에서도 액세스를 금
 
 
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 외부 액세스는 방지하지만, 자식 클래스에서의 액세스는 허용한다.
 

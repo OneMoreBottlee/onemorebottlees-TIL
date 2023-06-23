@@ -94,6 +94,7 @@
   * [32장 String](book/deep-dive/32-string.md)
   * [33장 7번째 데이터 타입 Symbol](book/deep-dive/33-7-symbol.md)
   * [34장 이터러블](book/deep-dive/34.md)
+  * [35장 스프레드 문법](book/deep-dive/35.md)
 
 ## 💻 Study
 

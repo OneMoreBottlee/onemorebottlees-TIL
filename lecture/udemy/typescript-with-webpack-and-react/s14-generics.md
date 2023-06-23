@@ -42,7 +42,7 @@ console.log(btn)
 
 **첫 번째 제네릭 작성하기**
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 숫자를 넣으면 숫자가, 문자를 넣으면 문자가, 불리언을 넣으면 불리언이
 
@@ -84,7 +84,7 @@ any 로 처리 해야된다.
 
 타입스크립트는 추론으로 타입을 확인할 수 있기에 위와 같이 타입 값을 일일이 넣지 않아도 된다.
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
@@ -138,7 +138,7 @@ extends 타입 을 추가하면서 에러가 발생하게 된다.
 
 length 가 없기에 인터페이스를 추가한다.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 에러가 사라진다.
 

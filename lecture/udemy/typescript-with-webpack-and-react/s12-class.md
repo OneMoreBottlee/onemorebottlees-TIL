@@ -12,7 +12,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S12
 
 인스턴스화 가능하다.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 변수명 앞에 #을 붙이면 Private 설정. 클래스 외부에서 호출 불가능함
 
@@ -38,7 +38,7 @@ get 함수명(){}
 
 Setter
 
-![](<../../../.gitbook/assets/image (46).png>)
+![](<../../../.gitbook/assets/image (45).png>)
 
 즉각적으로 값을 변경하는 프로퍼티와 달리 조건부로 변경하는등 통제할 수 있다.
 
