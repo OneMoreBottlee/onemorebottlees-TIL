@@ -8,11 +8,11 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S8
 
 길이와 타입이 고정되어 있는 배열
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 많이 사용되지는 않지만, RGB와 같이 본질적으로 연결되어있는 배열에 사용됨
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 한계) push와 pop 등으로 배열을 수정하면 타입과 상관없이 적용됨
 
@@ -22,11 +22,11 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S8
 
 코드 전체에서 재사용할 수 있는 명명된 상수의 집합
 
-![](<../../../.gitbook/assets/image (82).png>)![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (44).png>)![](<../../../.gitbook/assets/image (90).png>)
 
 (recoil 에서 사용하던 enum 이 이렇게 사용되는군..)
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 다양한 타입이 섞인 enum도 사용 가능하다. 자동 완성 기능은 덤
 
