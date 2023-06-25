@@ -28,6 +28,7 @@
     * [#2 Overview of TypeScript](lecture/nomad-coders/typescript/2-overview-of-typescript.md)
     * [#3 Functions](lecture/nomad-coders/typescript/3-functions.md)
     * [#4 Classes and Interfaces](lecture/nomad-coders/typescript/4-classes-and-interfaces.md)
+    * [#5 TypeScript Blockchain](lecture/nomad-coders/typescript/5-typescript-blockchain.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)
@@ -95,6 +96,7 @@
   * [33장 7번째 데이터 타입 Symbol](book/deep-dive/33-7-symbol.md)
   * [34장 이터러블](book/deep-dive/34.md)
   * [35장 스프레드 문법](book/deep-dive/35.md)
+  * [36장 디스트럭처링 할당](book/deep-dive/36.md)
 
 ## 💻 Study
 
