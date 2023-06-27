@@ -98,7 +98,7 @@ NextJS에 CSS를 추가하는 방법
 1. style
 2. Module 이름.module.css 라는 이름의 파일에 원하는 스타일을 작성한다.
 
-![](<../../../.gitbook/assets/image (76).png>)![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (76).png>)![](<../../../.gitbook/assets/image (18) (1).png>)
 
 ![](<../../../.gitbook/assets/image (92).png>)
 
@@ -110,7 +110,7 @@ NextJS에 CSS를 추가하는 방법
 
 className={”이름1 이름2”} 와 같은 형태가 되야되기에 백틱으로 연결하거나 배열을 join하는 방법을 이용함
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **#1.5 Style JSX**
 

@@ -104,7 +104,7 @@ React, TS, 화살표 함수를 사용한다면 , 를 기억하자
 
 타입이 여러개인 제너릭이 필요한 경우 다음과 같이 설정한다.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 예) 두 객체를 합치는 함수
 
@@ -132,7 +132,7 @@ extends 타입 을 추가하면서 에러가 발생하게 된다.
 
 조건에 인터페이스를 추가할 수 도 있다.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -150,7 +150,7 @@ length 가 없기에 인터페이스를 추가한다.
 
 <figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 \<T = number> 로 기본값이 설정됨
 
@@ -162,4 +162,4 @@ length 가 없기에 인터페이스를 추가한다.
 
 제너릭을 사용해 클래스를 만들 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>

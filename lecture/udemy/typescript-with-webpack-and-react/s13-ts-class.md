@@ -30,7 +30,7 @@ readonly 는 못바꿈
 
 
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (31) (1).png>)
 
 Private 클래스 외부에서 변경, 접근, 쓰기 불가능하게 설정
 
@@ -44,7 +44,7 @@ JS 의 클래스 - 런타임에 작동
 
 **단축 구문**
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 파라미터 프로퍼티 단축 구문을 사용할 수 있음
 
@@ -52,7 +52,7 @@ JS 의 클래스 - 런타임에 작동
 
 **Getter / Setter**
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)
 
 TS의 Getter / Setter는 JS와 같다.
 

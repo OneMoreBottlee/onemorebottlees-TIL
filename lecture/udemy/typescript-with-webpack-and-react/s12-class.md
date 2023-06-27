@@ -12,7 +12,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S12
 
 인스턴스화 가능하다.
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 변수명 앞에 #을 붙이면 Private 설정. 클래스 외부에서 호출 불가능함
 
@@ -52,7 +52,7 @@ SON HM ⇒ Kim MJ 변경 완료
 
 개별 인스턴스가 아닌 클래스 차원에서 사용할 기능 설정할때 사용
 
-![](<../../../.gitbook/assets/image (4).png>)![](<../../../.gitbook/assets/image (135).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)![](<../../../.gitbook/assets/image (135).png>)
 
 
 
@@ -70,5 +70,5 @@ Player 의 모든 메서드, 프로퍼티 사용 가능
 
 자식 클래스에 생성자를 추가할 때 사용
 
-![](<../../../.gitbook/assets/image (170).png>)![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (170).png>)![](<../../../.gitbook/assets/image (2) (1).png>)
 

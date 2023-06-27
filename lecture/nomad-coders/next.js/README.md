@@ -8,4 +8,4 @@ notion API로 학습한 데이터를 가져오기 위해서는 SSR이 필요하�
 
 SSR의 대명사 Next.js 를 배워보자 !
 
-<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

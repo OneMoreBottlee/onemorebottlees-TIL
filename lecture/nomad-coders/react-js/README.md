@@ -6,5 +6,5 @@ description: 2022.10.03 - 2022.10.18
 
 프로젝트 전 챌린지로 연습하기
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 

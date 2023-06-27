@@ -22,7 +22,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S8
 
 코드 전체에서 재사용할 수 있는 명명된 상수의 집합
 
-![](<../../../.gitbook/assets/image (58).png>)![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (58).png>)![](<../../../.gitbook/assets/image (7) (1).png>)
 
 (recoil 에서 사용하던 enum 이 이렇게 사용되는군..)
 
