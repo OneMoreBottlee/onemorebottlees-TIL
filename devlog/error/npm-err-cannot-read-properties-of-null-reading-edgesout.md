@@ -1,3 +1,7 @@
+---
+description: 230626 Styled-Components를 인스톨하던중...
+---
+
 # npm ERR! Cannot read properties of null (reading 'edgesOut')
 
 ### 문제 상황
