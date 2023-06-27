@@ -14,7 +14,7 @@ description: 2022.09.25 - 2022.09.26
 
 
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,5 +66,5 @@ ctx.arc(x,y, 반지름, startAngle, endAngle) // 원 그리기
 
 이미지 추가, 텍스트 삽입, 이미지 저장, CSS
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (70).png>)
 

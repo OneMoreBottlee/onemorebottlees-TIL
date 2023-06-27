@@ -32,7 +32,7 @@ typeof를 활용해 특정 타입에 대한 동작을 설정한다
 
 **Equality Narrowing**
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 동등 연산자를 사용해 타입을 좁힌다.
 

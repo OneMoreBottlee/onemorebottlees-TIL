@@ -128,7 +128,7 @@ url에 정보를 숨켜 props로 내림, url에는 제목이 포함되어 있지
 
 다양한 url 정보를 추가할때 파일명 변경.
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 영화 제목과 id를 url에 추가하고, 이 정보를 활용해 서버에서 렌더링 작업을 할 수 있음 ⇒ SEO 효과적
 

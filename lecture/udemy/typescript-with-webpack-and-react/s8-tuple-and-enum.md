@@ -8,7 +8,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S8
 
 길이와 타입이 고정되어 있는 배열
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 많이 사용되지는 않지만, RGB와 같이 본질적으로 연결되어있는 배열에 사용됨
 
@@ -26,7 +26,7 @@ description: https://github.com/OneMoreBottlee/TypeScript-Master/tree/main/S8
 
 (recoil 에서 사용하던 enum 이 이렇게 사용되는군..)
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 다양한 타입이 섞인 enum도 사용 가능하다. 자동 완성 기능은 덤
 

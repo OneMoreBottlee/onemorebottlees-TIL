@@ -134,7 +134,7 @@ jsx global을 설정하면 글로벌 스타일이 설정됨
 
 \_app.js 가장 먼저 렌더링되면서 템플릿 && global 설정의 초석이 됨
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 중복되는 컴포넌트나 style을 설정해 놓을 수 있음
 

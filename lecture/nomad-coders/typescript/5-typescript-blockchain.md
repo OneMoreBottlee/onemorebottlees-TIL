@@ -15,7 +15,7 @@ npm init -y // package.json 생성
 npm install -D typescript // package.json 에 ts 추가
 ```
 
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>devDependencies 생성됨</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>devDependencies 생성됨</p></figcaption></figure>
 
 make src > make index.ts
 
@@ -31,19 +31,19 @@ make tsconfig.json
 
 함수를 하나 추가한 ts 파일로 확인해보자.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>index.ts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>index.ts</p></figcaption></figure>
 
 index.ts 파일에는 hello 라는 함수가 하나 포함되어 있다. 이 ts 파일을 컴파일해보자
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
 
 tsconfig.json 파일에 위와 같이 설정하고
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>package.json</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>package.json</p></figcaption></figure>
 
 package.json 의 script에 build : tsc를 추가한뒤 npm run build 를 실행하면
 
-<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption><p>npm run build</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>npm run build</p></figcaption></figure>
 
 컴파일한 js 파일이 설정한 폴더에 속해있다.
 
@@ -57,13 +57,13 @@ package.json 의 script에 build : tsc를 추가한뒤 npm run build 를 실행�
 
 이를 tsconfig 에서 원하는 버전으로 변경할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
 
 컴파일러 옵션에서 타겟을 ES6 로 설정하고 build !
 
 
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>index.js</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>index.js</p></figcaption></figure>
 
 아까와 달리 ES6에서 사용가능한 const, 화살표 함수로 컴파일 된다.
 
@@ -81,9 +81,9 @@ ex) "lib" : \["ES6"] 으로 설정시
 
 브라우저에서 사용한다는 내용이 없기에 TS에서 에러가 발생한다.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>"lib" : ["ES6"]</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>"lib" : ["ES6"]</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>"lib" : ["ES6", "DOM"]</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>"lib" : ["ES6", "DOM"]</p></figcaption></figure>
 
 lib에 DOM을 추가하면 에러는사라진다.
 
@@ -101,21 +101,21 @@ lib에 DOM을 추가하면 에러는사라진다.
 
 ex) JS로 만든 함수 모듈을 TS 에서 사용하려할때
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>JS로 작성한 함수 모듈</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>JS로 작성한 함수 모듈</p></figcaption></figure>
 
 JS에서 작성한 함수 모듈을 TS에 가져와 사용하면 에러가 발생한다.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>TS에서 발생한 에러</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>TS에서 발생한 에러</p></figcaption></figure>
 
 형식 선언을 찾을 수 없다는 것인데 이는 TS에게 myPackage 내 요소들의 타입을 알려주지 않았기 때문이다. 이를 위해 myPackage.t.ds 파일을 생성해 다음과 같이 타입을 선언해보자.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>myPackage의 타입 선언</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>myPackage의 타입 선언</p></figcaption></figure>
 
 그러면 TS에서 타입 확인이 가능해지고 에러가 사라진다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>myPagkage 모듈을 확인 가능하다.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>myPagkage 모듈을 확인 가능하다.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption><p>각 함수 모듈의 타입 확인 가능해진 모습</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>각 함수 모듈의 타입 확인 가능해진 모습</p></figcaption></figure>
 
 
 
@@ -127,13 +127,13 @@ JS에서 작성한 함수 모듈을 TS에 가져와 사용하면 에러가 발�
 
 JS 파일을 TS 와 같이 보호하고 싶을때 JS 첫 줄에 아래와 같이 주석을 추가한다.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 TS 파일이 JS 파일을 검사해 오류를 확인하고, 위와 같이 오류를 활성시켜 개발자에게 알려준다.
 
 그 오류는 아래와 같이 주석으로 타입을 설정함으로써 제거할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 이 방법이 JSDoc으로 주석을 사용해 JS 파일에 type 정보를 제공하는 방법이다.
 
@@ -166,5 +166,5 @@ npm에 존재하는 거의 대부분의 패키지들의 타입이 정의되어 �
 
 블록체인 만들어봄
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 

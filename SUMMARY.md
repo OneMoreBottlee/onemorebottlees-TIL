@@ -117,3 +117,5 @@
 
 * [💣 Error](devlog/error/README.md)
   * [npm ERR! Cannot read properties of null (reading 'edgesOut')](devlog/error/npm-err-cannot-read-properties-of-null-reading-edgesout.md)
+  * [NextJS](devlog/error/nextjs/README.md)
+    * [No img element](devlog/error/nextjs/no-img-element.md)
