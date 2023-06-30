@@ -6,7 +6,7 @@ description: 2023.06.20 - 2023.06.26
 
 TS 학습 & 나태해진 스스로를 깨우기 위해 챌린지 참여
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 예습 - 230620 - 230626
 
