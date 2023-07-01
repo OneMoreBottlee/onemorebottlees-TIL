@@ -14,9 +14,9 @@ CSS 연습을 하면서 Styled-Components를 설치하는데 에러가 발생했
 
 원인은 npm i styled-components 로 설치하는 버전이 아직 안정된 버전이 아니었기 때문이다.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
 
 
 
