@@ -99,7 +99,7 @@
   * [36장 디스트럭처링 할당](book/deep-dive/36.md)
   * [37장 Set과 Map](book/deep-dive/37-set-map.md)
   * [38장 브라우저의 렌더링 과정⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/38.md)
-  * [39장 DOM](book/deep-dive/39-dom.md)
+  * [39장 DOM ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/39-dom.md)
 
 ## 💻 Study
 
