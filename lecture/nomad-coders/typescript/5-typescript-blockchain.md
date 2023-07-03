@@ -57,7 +57,7 @@ package.json 의 script에 build : tsc를 추가한뒤 npm run build 를 실행�
 
 이를 tsconfig 에서 원하는 버전으로 변경할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
 
 컴파일러 옵션에서 타겟을 ES6 로 설정하고 build !
 
@@ -83,7 +83,7 @@ ex) "lib" : \["ES6"] 으로 설정시
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>"lib" : ["ES6"]</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>"lib" : ["ES6", "DOM"]</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>"lib" : ["ES6", "DOM"]</p></figcaption></figure>
 
 lib에 DOM을 추가하면 에러는사라진다.
 
