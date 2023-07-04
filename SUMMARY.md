@@ -100,6 +100,7 @@
   * [37장 Set과 Map](book/deep-dive/37-set-map.md)
   * [38장 브라우저의 렌더링 과정⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/38.md)
   * [39장 DOM ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/39-dom.md)
+  * [40장 이벤트⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/40.md)
 
 ## 💻 Study
 
