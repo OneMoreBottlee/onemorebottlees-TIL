@@ -45,7 +45,7 @@ state 설정, 간단한 reducer 작성(작동X), dispatcher에 연결까지 확�
     form.addEventListener("submit", onSubmit);
     ```
 
-***
+
 
 ### #2.1 **State Mutation**
 
@@ -92,7 +92,7 @@ ADD 버튼 클릭시 state 값을 추가할 수 있게 수정 > mutate가 아닌
     form.addEventListener("submit", onSubmit);
     ```
 
-***
+
 
 ### #2.2 **Delete To Do**
 
@@ -179,7 +179,7 @@ ADD 버튼 클릭시 리스트 추가 & DEL 버튼 추가된 상태
     form.addEventListener("submit", onSubmit);
     ```
 
-***
+
 
 ### #2.3 Delete To Do part Two
 
@@ -266,11 +266,10 @@ Do NOT Mutate ! return NEW STATE !!
     form.addEventListener("submit", onSubmit);
     ```
 
-***
+
 
 ### #2.4 **Conclusions**
 
 1. **fuction**을 사용해 redux 환경을 구성한다. action을 dispatch하는 fn reducer에 보낼 object를 return하는 fn +a
 2. **Do Not Mutate !! Return New State !!!** 코드스테이츠에서 학습한 내용과 가장 큰 차이를 보이는 구간이다. 강의 내내 이 부분을 강조하며 기존의 상태를 변경하는 것이 아닌 새로운 상태를 선언하는 것임을 각인시켰다.
 
-***

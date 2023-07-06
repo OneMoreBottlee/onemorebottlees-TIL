@@ -64,7 +64,7 @@ function App() {
 export default App;
 ```
 
-***
+
 
 ### #2.5 Pseudo Selectors part Two
 
@@ -76,4 +76,3 @@ dark mode 만들기 50%
 
 같은 이름의 property를 설정해야 한다.
 
-***

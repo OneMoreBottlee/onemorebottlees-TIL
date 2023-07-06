@@ -45,7 +45,7 @@ npm i react-beautiful-dnd
 npm i --save-dev @types/react-beautiful-dnd
 ```
 
-***
+
 
 ### #6.3 **Drag and Drop part Two**
 
@@ -75,7 +75,7 @@ draggableProps 드래그할 영역 지정
     </DragDropContext>
 ```
 
-***
+
 
 ### #6.4 **Styles and Placeholders**
 
@@ -83,7 +83,7 @@ placeholder
 
 Draggable 요소를 드래그하는동안 Droppable에 position:fixed를 적용해 크기가 줄어드는 것을 방지한다.
 
-***
+
 
 ### #6.5 **Reordering**
 
@@ -99,7 +99,7 @@ onDragEnd 드래그가 종료됐을때의 세팅
 
 splice(a, b, c) - a 시작위치 b 지울개수 c 추가할내용
 
-***
+
 
 ### #6.6 **Reordering Two**
 
@@ -111,7 +111,7 @@ li로 목록 구분시 key를 제대로 작성해야 한다.
 
 ⇒ index를 key로 사용할때 경고하지 않기 때문에 & index를 key로 사용하면 순서가 뒤바뀌면서 좋지않은 결과를 초래한다
 
-***
+
 
 ### #6.7 **Performance**
 
@@ -127,7 +127,7 @@ export default DraggableCard;
 export default React.memo(DraggableCard);
 ```
 
-***
+
 
 ### #6.8 **Multi Boards**
 
@@ -141,7 +141,7 @@ Object.keys(obj)
 
 .map을 이용해 다시 여러 개의 엘리먼트로 구분한다.
 
-***
+
 
 ### #6.9 **Same Board Movement**
 
@@ -151,7 +151,7 @@ state 구조가 변경되었기에 그 변화에 맞춰서 state 값을 수정�
 
 하나의 상태 그룹 내에서 진행됨
 
-***
+
 
 ### #6.10 **Cross Board Movement**
 
@@ -159,7 +159,7 @@ state 구조가 변경되었기에 그 변화에 맞춰서 state 값을 수정�
 
 그룹 값의 변화에 주의하면서 같은 Board 변경과 같은 방법으로 state 값을 수정한다.
 
-***
+
 
 ### #6.11 **Droppable Snapshot**
 
@@ -185,7 +185,7 @@ isUsingPlaceholder: boolean
 
 placeholder가 사용되고 있는지 여부
 
-***
+
 
 ### #6.12 **Final Styles**
 
@@ -193,7 +193,7 @@ isDragging - boolean
 
 Draggable이 실행되는지 여부
 
-***
+
 
 ### #6.13 Refs
 
@@ -203,7 +203,7 @@ beautiful-dnd 가 React 요소에 접근할 수 있도록 도와줌
 
 const \~\~ = useRef()
 
-***
+
 
 ### #6.14 **Task Objects**
 
@@ -223,10 +223,9 @@ const {register, handleSubmit, setValue, getValue} = useForm<IForm>
 ...
 ```
 
-***
+
 
 ### #6.15 **Creating Tasks**
 
 id 값을 고유한 data로 제공(Date.now())하면서 오류 해결
 
-***

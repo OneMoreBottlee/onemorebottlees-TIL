@@ -6,7 +6,7 @@
 
 npm install @reduxjs/toolkit
 
-***
+
 
 ### #4.1 **createAction**
 
@@ -55,7 +55,7 @@ createAction 메소드를 사용해 ACTION 부분의 코드를 간결하게 작�
     export default store;
     ```
 
-***
+
 
 ### #4.2 **createReducer**
 
@@ -99,7 +99,7 @@ createReducer 메서드를 사용, reducer 내용을 간결하게 작성한다.
     export default store;
     ```
 
-***
+
 
 ### #4.3 **configureStore**
 
@@ -113,7 +113,7 @@ reducer를 객체 형식으로 전달해 만들 수 있다.
 
 [참고](https://www.notion.so/7822efed8f414237b709fbddc246303e?pvs=21) [참고2](https://redux-toolkit.js.org/api/configureStore)
 
-***
+
 
 ### #4.4 **createSlice**
 
@@ -153,7 +153,7 @@ createSlice 메서드를 이용해, reducer와 action을 자동으로 생성한�
     export default store;
     ```
 
-***
+
 
 ### #4.5 **Conclusions**
 
@@ -186,4 +186,3 @@ Recux toolkit의 가장 큰 장점이다.
     export default configureStore({ reducer: toDos.reducer});
     ```
 
-***

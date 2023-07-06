@@ -101,7 +101,7 @@ lib에 DOM을 추가하면 에러는사라진다.
 
 ex) JS로 만든 함수 모듈을 TS 에서 사용하려할때
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>JS로 작성한 함수 모듈</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>JS로 작성한 함수 모듈</p></figcaption></figure>
 
 JS에서 작성한 함수 모듈을 TS에 가져와 사용하면 에러가 발생한다.
 
