@@ -103,6 +103,7 @@
   * [40장 이벤트⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/40.md)
   * [41장 타이머](book/deep-dive/41.md)
   * [42장 비동기 프로그래밍 ⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/42.md)
+  * [43장 Ajax](book/deep-dive/43-ajax.md)
 
 ## 💻 Study
 
