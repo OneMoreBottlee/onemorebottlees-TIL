@@ -105,6 +105,7 @@
   * [42장 비동기 프로그래밍 ⭐⭐⭐⭐⭐⭐⭐⭐](book/deep-dive/42.md)
   * [43장 Ajax](book/deep-dive/43-ajax.md)
   * [44장 REST API](book/deep-dive/44-rest-api.md)
+  * [45장 프로미스](book/deep-dive/45.md)
 
 ## 💻 Study
 
