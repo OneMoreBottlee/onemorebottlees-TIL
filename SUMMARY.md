@@ -107,6 +107,7 @@
   * [44장 REST API](book/deep-dive/44-rest-api.md)
   * [45장 프로미스](book/deep-dive/45.md)
   * [46장 제너레이터와 async/await](book/deep-dive/46-async-await.md)
+  * [47장 에러 처리](book/deep-dive/47.md)
 
 ## 💻 Study
 
