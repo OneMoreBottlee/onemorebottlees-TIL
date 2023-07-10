@@ -106,6 +106,7 @@
   * [43장 Ajax](book/deep-dive/43-ajax.md)
   * [44장 REST API](book/deep-dive/44-rest-api.md)
   * [45장 프로미스](book/deep-dive/45.md)
+  * [46장 제너레이터와 async/await](book/deep-dive/46-async-await.md)
 
 ## 💻 Study
 
