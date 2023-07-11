@@ -105,7 +105,7 @@ ex) JS로 만든 함수 모듈을 TS 에서 사용하려할때
 
 JS에서 작성한 함수 모듈을 TS에 가져와 사용하면 에러가 발생한다.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>TS에서 발생한 에러</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>TS에서 발생한 에러</p></figcaption></figure>
 
 형식 선언을 찾을 수 없다는 것인데 이는 TS에게 myPackage 내 요소들의 타입을 알려주지 않았기 때문이다. 이를 위해 myPackage.t.ds 파일을 생성해 다음과 같이 타입을 선언해보자.
 

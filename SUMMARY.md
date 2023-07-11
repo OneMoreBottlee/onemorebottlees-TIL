@@ -110,6 +110,8 @@
   * [47장 에러 처리](book/deep-dive/47.md)
   * [48장 모듈](book/deep-dive/48.md)
   * [49장 Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축](book/deep-dive/49-babel-webpack-es6+-es.next.md)
+* [러닝 타입스크립트](book/undefined/README.md)
+  * [ch1 자바스크립트에서 타입스크립트로](book/undefined/ch1.md)
 
 ## 💻 Study
 
