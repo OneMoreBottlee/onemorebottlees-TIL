@@ -109,6 +109,7 @@
   * [46장 제너레이터와 async/await](book/deep-dive/46-async-await.md)
   * [47장 에러 처리](book/deep-dive/47.md)
   * [48장 모듈](book/deep-dive/48.md)
+  * [49장 Babel과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축](book/deep-dive/49-babel-webpack-es6+-es.next.md)
 
 ## 💻 Study
 
