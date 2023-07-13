@@ -113,6 +113,7 @@
 * [러닝 타입스크립트](book/undefined/README.md)
   * [Ch.1 자바스크립트에서 타입스크립트로](book/undefined/ch.1.md)
   * [Ch.2 타입 시스템](book/undefined/ch.2.md)
+  * [Ch.3 유니언과 리터럴](book/undefined/ch.3.md)
 
 ## 💻 Study
 
