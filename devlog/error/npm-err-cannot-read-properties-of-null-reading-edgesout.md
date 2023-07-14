@@ -16,7 +16,7 @@ CSS 연습을 하면서 Styled-Components를 설치하는데 에러가 발생했
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>in Styled-Components Issuse</p></figcaption></figure>
 
 
 

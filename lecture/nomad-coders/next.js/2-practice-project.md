@@ -6,7 +6,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 레이아웃을 설정해 \_app 파일에 적용하면 통일된 디자인 패턴을 적용할 수 있다.
 
@@ -18,7 +18,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
 
 헤더를 설정해 타이틀을 설정할 수 있다.
 
@@ -52,13 +52,13 @@ react와 같음
 
 **Redirect**
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 특정 url 방문한 경우 원하는 url로 리다이렉트 시킬 수 있음
 
 **Rewrite**
 
-![](<../../../.gitbook/assets/image (73).png>)![](<../../../.gitbook/assets/image (101).png>)
+![](<../../../.gitbook/assets/image (73) (1).png>)![](<../../../.gitbook/assets/image (101).png>)
 
 URL 변환 없이 내용을 변환함
 

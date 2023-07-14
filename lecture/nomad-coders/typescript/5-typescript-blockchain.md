@@ -35,7 +35,7 @@ make tsconfig.json
 
 index.ts 파일에는 hello 라는 함수가 하나 포함되어 있다. 이 ts 파일을 컴파일해보자
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (3).png" alt=""><figcaption><p>tsconfig.json</p></figcaption></figure>
 
 tsconfig.json 파일에 위와 같이 설정하고
 
@@ -109,7 +109,7 @@ JS에서 작성한 함수 모듈을 TS에 가져와 사용하면 에러가 발�
 
 형식 선언을 찾을 수 없다는 것인데 이는 TS에게 myPackage 내 요소들의 타입을 알려주지 않았기 때문이다. 이를 위해 myPackage.t.ds 파일을 생성해 다음과 같이 타입을 선언해보자.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>myPackage의 타입 선언</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>myPackage의 타입 선언</p></figcaption></figure>
 
 그러면 TS에서 타입 확인이 가능해지고 에러가 사라진다.&#x20;
 
@@ -133,7 +133,7 @@ TS 파일이 JS 파일을 검사해 오류를 확인하고, 위와 같이 오류
 
 그 오류는 아래와 같이 주석으로 타입을 설정함으로써 제거할 수 있다.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 이 방법이 JSDoc으로 주석을 사용해 JS 파일에 type 정보를 제공하는 방법이다.
 

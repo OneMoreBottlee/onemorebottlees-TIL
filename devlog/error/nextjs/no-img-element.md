@@ -15,7 +15,7 @@ description: 230626 CSS 연습중
 
 ### 문제원인
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Image 태그의 탄생 비화</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Image 태그의 탄생 비화</p></figcaption></figure>
 
 NextJS 공식 문서를 보면, NextJS에서 일반적인 img 태그를 사용하면 LCP 속도가 느려지고 대역폭이 높아지는 것을 방지하고자 img 태그의 사용을 방지하기 위해 경고를 준다고 한다.
 
@@ -23,7 +23,7 @@ NextJS 공식 문서를 보면, NextJS에서 일반적인 img 태그를 사용�
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>에러 발생 원인과 수정 방법</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>NextJS가 제시하는 2가지 수정 방법</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>NextJS가 제시하는 2가지 수정 방법</p></figcaption></figure>
 
 해결 방법은 Image 태그를 사용하거나 picture 태그에 img 태그를 포함시키는 것이란다.
 
@@ -35,7 +35,7 @@ NextJS 공식 문서를 보면, NextJS에서 일반적인 img 태그를 사용�
 
 즉시 Image 태그를 임포트하고 Image 태그로 바꿨다. 필수 요소인 src, alt, width, height 를 추가하니 잘 작동한다. 다른 img 태그도 모두 수정해서 경고 문구를 없애자 !
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Water Wave</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Water Wave</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Text Wave</p></figcaption></figure>
 

@@ -104,7 +104,7 @@ React, TS, 화살표 함수를 사용한다면 , 를 기억하자
 
 타입이 여러개인 제너릭이 필요한 경우 다음과 같이 설정한다.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 예) 두 객체를 합치는 함수
 
