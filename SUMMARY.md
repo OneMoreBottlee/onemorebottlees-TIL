@@ -115,6 +115,7 @@
   * [Ch.2 타입 시스템](book/undefined/ch.2.md)
   * [Ch.3 유니언과 리터럴](book/undefined/ch.3.md)
   * [Ch.4 객체](book/undefined/ch.4.md)
+  * [Ch.5 함수](book/undefined/ch.5.md)
 
 ## 💻 Study
 
