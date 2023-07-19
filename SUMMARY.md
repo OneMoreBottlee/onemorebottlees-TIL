@@ -117,6 +117,7 @@
   * [Ch.4 객체](book/undefined/ch.4.md)
   * [Ch.5 함수](book/undefined/ch.5.md)
   * [Ch.6 배열](book/undefined/ch.6.md)
+  * [Ch.7 인터페이스](book/undefined/ch.7.md)
 
 ## 💻 Study
 
