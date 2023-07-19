@@ -2,7 +2,7 @@
 
 ### 1.1 자바스크립트의 역사
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Brendan Eich</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Brendan Eich</p></figcaption></figure>
 
 1995년 브렌던 아이크는 10일만에 자바스크립트를 설계했다. 독특한 특성과 결점으로 인해 조롱받았지만, 엄청난 발전을 보여주며 성장했다. 특히 2015년부터 매년 ECMA스크립트의 새로운 버전이 출시되었는데, 다른 프로그래밍 언어에서 제공하는 기능에 맞춘 새 기능도 함께 제공되어 단점을 보완하는 발전을 보이고 있다.
 

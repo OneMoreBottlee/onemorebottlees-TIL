@@ -13,7 +13,7 @@
 
 '이거 혹은 저거' 와 같은 타입을 유니언 union 이라 한다. 유니언 타입은 값의 정확한 타입을 모르지만, 옵션 중 하나라는 것을 알고 있는 경우에 코드를 처리하는 개념이다.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>유니언 타입</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>유니언 타입</p></figcaption></figure>
 
 사진과 같이 타입스크립트는 | 연산자를 사용해 유니언 타입을 알려준다.&#x20;
 
@@ -21,7 +21,7 @@
 
 #### 3.1.1 유니언 타입 선언
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 변수의 초깃값이 있더라도 변수에 대한 명시적 타입 애너테이션을 제공하는 것이 유용할 때 유니언 타입을 사용한다. 유니언 타입 선언은 타입 애너테이션으로 타입을 정의하는 모든 곳에서 사용 가능하다.
 
@@ -31,7 +31,7 @@
 
 값이 유니언 타입일 때, 타입스크립트는 접근 가능한 모든 타입에 공통된 속성에 접근할 수 있다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 이처럼 접근 가능한 모든 타입에 공통적으로 존재하지 않는 속성에 대한 접근을 제한하는 것은 안전 조치에 해당된다. 객체가 어떤 속성을 포함한 타입으로 확실하게 알려지지 않은 경우, 타입스크립트는 해당 속성을 사용하려고 시도하는 것이 안전하지 않다고 여긴다. 그 속성이 존재하지 않을 수도 있기 때문이다.
 

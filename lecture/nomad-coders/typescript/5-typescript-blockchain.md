@@ -81,7 +81,7 @@ ex) "lib" : \["ES6"] 으로 설정시
 
 브라우저에서 사용한다는 내용이 없기에 TS에서 에러가 발생한다.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>"lib" : ["ES6"]</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>"lib" : ["ES6"]</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>"lib" : ["ES6", "DOM"]</p></figcaption></figure>
 
