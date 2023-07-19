@@ -136,6 +136,8 @@
 
 * [💣 Error](devlog/error/README.md)
   * [npm ERR! Cannot read properties of null (reading 'edgesOut')](devlog/error/npm-err-cannot-read-properties-of-null-reading-edgesout.md)
+  * [git](devlog/error/git/README.md)
+    * [src refspec main does not match any](devlog/error/git/src-refspec-main-does-not-match-any.md)
   * [NextJS](devlog/error/nextjs/README.md)
     * [No img element](devlog/error/nextjs/no-img-element.md)
     * [\`next/image\` Un-configured Host](devlog/error/nextjs/next-image-un-configured-host.md)

@@ -83,7 +83,7 @@ test의 타입을 확인해 string인 경우와 number인 경우로 구분해 �
 
 예시를 보면 test는 "HelloType" 이라는 값을 가진 string 타입으로 보인다. 하지만 "HelloType" 이라는 타입이다. 원시 타입인 string은 모든 문자열의 집합이지만 "HelloType" 타입은 "HelloType"이라는 하나의 문자열만 나타낸다.
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73) (2).png" alt=""><figcaption></figcaption></figure>
 
 반면, let 으로 선언하면 string 타입으로 나타나는 것을 확인할 수 있다. 이를 통해 리터럴 타입의 범위는 해당 타입이 가질 수 있는 가능한 모든 값의 조합이라 생각할 수 있다.&#x20;
 
