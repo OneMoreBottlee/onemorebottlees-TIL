@@ -135,6 +135,7 @@
   * [Ex 1](study/typescript-exercises/ex-1.md)
   * [Ex 2](study/typescript-exercises/ex-2.md)
   * [Ex 3](study/typescript-exercises/ex-3.md)
+  * [Ex 4](study/typescript-exercises/ex-4.md)
 
 ## 📖 DevLog
 
