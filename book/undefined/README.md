@@ -1,3 +1,7 @@
+---
+description: 📘러닝 타입스크립트  정리
+---
+
 # 러닝 타입스크립트
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
