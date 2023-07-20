@@ -133,6 +133,7 @@
   * [9회차](study/cs/9.md)
 * [TypeScript Exercises](study/typescript-exercises/README.md)
   * [Ex 1](study/typescript-exercises/ex-1.md)
+  * [Ex 2](study/typescript-exercises/ex-2.md)
 
 ## 📖 DevLog
 
