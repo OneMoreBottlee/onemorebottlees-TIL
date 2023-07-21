@@ -2,6 +2,35 @@
 
 * [🤓 Introduce](README.md)
 
+## 📖 DevLog
+
+* [💣 Error](devlog/error/README.md)
+  * [npm ERR! Cannot read properties of null (reading 'edgesOut')](devlog/error/npm-err-cannot-read-properties-of-null-reading-edgesout.md)
+  * [git](devlog/error/git/README.md)
+    * [src refspec main does not match any](devlog/error/git/src-refspec-main-does-not-match-any.md)
+  * [NextJS](devlog/error/nextjs/README.md)
+    * [No img element](devlog/error/nextjs/no-img-element.md)
+    * [\`next/image\` Un-configured Host](devlog/error/nextjs/next-image-un-configured-host.md)
+
+## 💻 Study
+
+* [CS 지식 발표](study/cs/README.md)
+  * [1회차](study/cs/1.md)
+  * [2회차](study/cs/2.md)
+  * [3회차](study/cs/3.md)
+  * [4회차](study/cs/4.md)
+  * [5회차](study/cs/5.md)
+  * [6회차](study/cs/6.md)
+  * [7회차](study/cs/7.md)
+  * [8회차](study/cs/8.md)
+  * [9회차](study/cs/9.md)
+* [TypeScript Exercises](study/typescript-exercises/README.md)
+  * [Ex 1](study/typescript-exercises/ex-1.md)
+  * [Ex 2](study/typescript-exercises/ex-2.md)
+  * [Ex 3](study/typescript-exercises/ex-3.md)
+  * [Ex 4](study/typescript-exercises/ex-4.md)
+  * [Ex 5](study/typescript-exercises/ex-5.md)
+
 ## 📺 Lecture
 
 * [Nomad Coders](lecture/nomad-coders/README.md)
@@ -118,32 +147,4 @@
   * [Ch.5 함수](book/undefined/ch.5.md)
   * [Ch.6 배열](book/undefined/ch.6.md)
   * [Ch.7 인터페이스](book/undefined/ch.7.md)
-
-## 💻 Study
-
-* [CS 지식 발표](study/cs/README.md)
-  * [1회차](study/cs/1.md)
-  * [2회차](study/cs/2.md)
-  * [3회차](study/cs/3.md)
-  * [4회차](study/cs/4.md)
-  * [5회차](study/cs/5.md)
-  * [6회차](study/cs/6.md)
-  * [7회차](study/cs/7.md)
-  * [8회차](study/cs/8.md)
-  * [9회차](study/cs/9.md)
-* [TypeScript Exercises](study/typescript-exercises/README.md)
-  * [Ex 1](study/typescript-exercises/ex-1.md)
-  * [Ex 2](study/typescript-exercises/ex-2.md)
-  * [Ex 3](study/typescript-exercises/ex-3.md)
-  * [Ex 4](study/typescript-exercises/ex-4.md)
-  * [Ex 5](study/typescript-exercises/ex-5.md)
-
-## 📖 DevLog
-
-* [💣 Error](devlog/error/README.md)
-  * [npm ERR! Cannot read properties of null (reading 'edgesOut')](devlog/error/npm-err-cannot-read-properties-of-null-reading-edgesout.md)
-  * [git](devlog/error/git/README.md)
-    * [src refspec main does not match any](devlog/error/git/src-refspec-main-does-not-match-any.md)
-  * [NextJS](devlog/error/nextjs/README.md)
-    * [No img element](devlog/error/nextjs/no-img-element.md)
-    * [\`next/image\` Un-configured Host](devlog/error/nextjs/next-image-un-configured-host.md)
+  * [Ch.8 클래스](book/undefined/ch.8.md)
