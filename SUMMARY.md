@@ -149,3 +149,4 @@
   * [Ch.6 배열](book/undefined/ch.6.md)
   * [Ch.7 인터페이스](book/undefined/ch.7.md)
   * [Ch.8 클래스](book/undefined/ch.8.md)
+  * [Ch.9 타입 제한자](book/undefined/ch.9.md)
