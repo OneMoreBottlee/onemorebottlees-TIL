@@ -150,3 +150,4 @@
   * [Ch.7 인터페이스](book/undefined/ch.7.md)
   * [Ch.8 클래스](book/undefined/ch.8.md)
   * [Ch.9 타입 제한자](book/undefined/ch.9.md)
+  * [Ch.10 제네릭](book/undefined/ch.10.md)
