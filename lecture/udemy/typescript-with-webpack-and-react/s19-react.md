@@ -6,7 +6,7 @@
 npx create-react-app my-app --template typescript
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 타입스크립트 컴포넌트를 만드는 기본
 

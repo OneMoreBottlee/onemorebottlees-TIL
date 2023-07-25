@@ -10,6 +10,7 @@
     * [src refspec main does not match any](devlog/error/git/src-refspec-main-does-not-match-any.md)
   * [NextJS](devlog/error/nextjs/README.md)
     * [No img element](devlog/error/nextjs/no-img-element.md)
+    * [ReferenceError : document is not defined](devlog/error/nextjs/referenceerror-document-is-not-defined.md)
     * [\`next/image\` Un-configured Host](devlog/error/nextjs/next-image-un-configured-host.md)
 
 ## 💻 Study

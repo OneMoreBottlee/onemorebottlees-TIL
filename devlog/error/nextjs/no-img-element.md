@@ -35,7 +35,7 @@ NextJS 공식 문서를 보면, NextJS에서 일반적인 img 태그를 사용�
 
 즉시 Image 태그를 임포트하고 Image 태그로 바꿨다. 필수 요소인 src, alt, width, height 를 추가하니 잘 작동한다. 다른 img 태그도 모두 수정해서 경고 문구를 없애자 !
 
-<figure><img src="../../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>Water Wave</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3) (1) (1).png" alt=""><figcaption><p>Water Wave</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Text Wave</p></figcaption></figure>
 

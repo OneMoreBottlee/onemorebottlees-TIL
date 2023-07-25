@@ -31,7 +31,7 @@
 
 값이 유니언 타입일 때, 타입스크립트는 접근 가능한 모든 타입에 공통된 속성에 접근할 수 있다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 이처럼 접근 가능한 모든 타입에 공통적으로 존재하지 않는 속성에 대한 접근을 제한하는 것은 안전 조치에 해당된다. 객체가 어떤 속성을 포함한 타입으로 확실하게 알려지지 않은 경우, 타입스크립트는 해당 속성을 사용하려고 시도하는 것이 안전하지 않다고 여긴다. 그 속성이 존재하지 않을 수도 있기 때문이다.
 

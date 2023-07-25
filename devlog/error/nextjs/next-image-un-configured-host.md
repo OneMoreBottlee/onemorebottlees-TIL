@@ -24,7 +24,7 @@ SSR인 Nextjs는 서버에서 코드를 실행한 후 브라우저에 화면을 
 
 <div data-full-width="true">
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>외부 소스 가져와도 되는지 여쭤봐도 되겠습니까?</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>외부 소스 가져와도 되는지 여쭤봐도 되겠습니까?</p></figcaption></figure>
 
 </div>
 
