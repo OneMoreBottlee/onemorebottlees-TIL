@@ -152,3 +152,8 @@
   * [Ch.8 클래스](book/undefined/ch.8.md)
   * [Ch.9 타입 제한자](book/undefined/ch.9.md)
   * [Ch.10 제네릭](book/undefined/ch.10.md)
+
+## 🔄 ETC
+
+* [Ubuntu](etc/ubuntu/README.md)
+  * [어플리케이션 업데이트](etc/ubuntu/undefined.md)
