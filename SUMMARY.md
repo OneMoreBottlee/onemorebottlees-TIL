@@ -152,6 +152,7 @@
   * [Ch.8 클래스](book/undefined/ch.8.md)
   * [Ch.9 타입 제한자](book/undefined/ch.9.md)
   * [Ch.10 제네릭](book/undefined/ch.10.md)
+  * [Ch.11 선언 파일](book/undefined/ch.11.md)
 
 ## 🔄 ETC
 
