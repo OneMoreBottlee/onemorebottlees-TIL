@@ -154,6 +154,7 @@
   * [Ch.10 제네릭](book/undefined/ch.10.md)
   * [Ch.11 선언 파일](book/undefined/ch.11.md)
   * [Ch.12 IDE 기능 사용](book/undefined/ch.12-ide.md)
+* [(yet) 자바스크립트 완벽 가이드](book/yet.md)
 
 ## 🔄 ETC
 
