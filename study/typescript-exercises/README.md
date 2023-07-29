@@ -2,7 +2,7 @@
 
 원티드 세션에서 추천 받은 타입스크립트 문제 풀이 사이트 [링크](https://typescript-exercises.github.io/#exercise=1\&file=%2Fnode\_modules%2Ftype-assertions%2Findex.ts)
 
-총 16단계의 문제가 있고, 9단계 이상이면 타입 스크립트를 이력서에 담아도 된다고 한다.
+총 16단계의 문제가 있고, 9단계 이상이면 타입 스크립트에 자신감을 가져도 된다고 한다.
 
 현재 타입스크립트 수준 확인 겸 풀이를 시작해보자 !
 
@@ -68,20 +68,6 @@ Brief UI guide:
     |               |   << Errors to fix in order to proceed >>    |
     |               |                                              |
     +---------------+----------------------------------------------+
-
-Intro:
-
-    We are starting a small community of users. For performance
-    reasons we have decided to store all users right in the code.
-    This way we can provide our developers with more
-    user-interaction opportunities. With user-related data, at least.
-    All the GDPR-related issues will be solved some other day.
-    This would be the basis for our future experiments during
-    these exercises.
-
-Exercise:
-
-    Given the data, define the interface "User" and use it accordingly.
 
 */
 
