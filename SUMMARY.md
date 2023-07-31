@@ -34,6 +34,7 @@
   * [Ex 6](study/typescript-exercises/ex-6.md)
   * [Ex 7](study/typescript-exercises/ex-7.md)
   * [Ex 8](study/typescript-exercises/ex-8.md)
+  * [Ex 9](study/typescript-exercises/ex-9.md)
 
 ## 📺 Lecture
 
