@@ -158,6 +158,7 @@
   * [Ch.11 선언 파일](book/undefined/ch.11.md)
   * [Ch.12 IDE 기능 사용](book/undefined/ch.12-ide.md)
   * [Ch.13 구성 옵션](book/undefined/ch.13.md)
+  * [Ch.14 구문 확장](book/undefined/ch.14.md)
 * [(yet) 자바스크립트 완벽 가이드](book/yet.md)
 
 ## 🔄 ETC
