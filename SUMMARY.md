@@ -92,6 +92,9 @@
   * [4. 알고리즘](lecture/cs50/4..md)
   * [5. 메모리](lecture/cs50/5..md)
   * [6. 자료구조](lecture/cs50/6..md)
+* [생활코딩](lecture/undefined/README.md)
+  * [DATABASE](lecture/undefined/database/README.md)
+    * [DATABASE1](lecture/undefined/database/database1.md)
 
 ## 📚 Book
 
