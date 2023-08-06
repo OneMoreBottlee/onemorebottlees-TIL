@@ -13,30 +13,6 @@
     * [ReferenceError : document is not defined](devlog/error/nextjs/referenceerror-document-is-not-defined.md)
     * [\`next/image\` Un-configured Host](devlog/error/nextjs/next-image-un-configured-host.md)
 
-## 💻 Study
-
-* [CS 지식 발표](study/cs/README.md)
-  * [1회차](study/cs/1.md)
-  * [2회차](study/cs/2.md)
-  * [3회차](study/cs/3.md)
-  * [4회차](study/cs/4.md)
-  * [5회차](study/cs/5.md)
-  * [6회차](study/cs/6.md)
-  * [7회차](study/cs/7.md)
-  * [8회차](study/cs/8.md)
-  * [9회차](study/cs/9.md)
-* [TypeScript Exercises](study/typescript-exercises/README.md)
-  * [Ex 1](study/typescript-exercises/ex-1.md)
-  * [Ex 2](study/typescript-exercises/ex-2.md)
-  * [Ex 3](study/typescript-exercises/ex-3.md)
-  * [Ex 4](study/typescript-exercises/ex-4.md)
-  * [Ex 5](study/typescript-exercises/ex-5.md)
-  * [Ex 6](study/typescript-exercises/ex-6.md)
-  * [Ex 7](study/typescript-exercises/ex-7.md)
-  * [Ex 8](study/typescript-exercises/ex-8.md)
-  * [Ex 9](study/typescript-exercises/ex-9.md)
-  * [Ex 10](study/typescript-exercises/ex-10.md)
-
 ## 📺 Lecture
 
 * [Nomad Coders](lecture/nomad-coders/README.md)
@@ -167,7 +143,33 @@
   * [용어 사전](book/undefined/undefined.md)
 * [(yet) 자바스크립트 완벽 가이드](book/yet.md)
 
+## 💻 Study
+
+* [CS 지식 발표](study/cs/README.md)
+  * [1회차](study/cs/1.md)
+  * [2회차](study/cs/2.md)
+  * [3회차](study/cs/3.md)
+  * [4회차](study/cs/4.md)
+  * [5회차](study/cs/5.md)
+  * [6회차](study/cs/6.md)
+  * [7회차](study/cs/7.md)
+  * [8회차](study/cs/8.md)
+  * [9회차](study/cs/9.md)
+* [TypeScript Exercises](study/typescript-exercises/README.md)
+  * [Ex 1](study/typescript-exercises/ex-1.md)
+  * [Ex 2](study/typescript-exercises/ex-2.md)
+  * [Ex 3](study/typescript-exercises/ex-3.md)
+  * [Ex 4](study/typescript-exercises/ex-4.md)
+  * [Ex 5](study/typescript-exercises/ex-5.md)
+  * [Ex 6](study/typescript-exercises/ex-6.md)
+  * [Ex 7](study/typescript-exercises/ex-7.md)
+  * [Ex 8](study/typescript-exercises/ex-8.md)
+  * [Ex 9](study/typescript-exercises/ex-9.md)
+  * [Ex 10](study/typescript-exercises/ex-10.md)
+
 ## 🔄 ETC
 
 * [Ubuntu](etc/ubuntu/README.md)
   * [어플리케이션 업데이트](etc/ubuntu/undefined.md)
+* [Article](etc/article/README.md)
+  * [Atomic Design Pattern](etc/article/atomic-design-pattern.md)
