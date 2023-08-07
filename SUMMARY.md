@@ -173,3 +173,4 @@
   * [어플리케이션 업데이트](etc/ubuntu/undefined.md)
 * [Article](etc/article/README.md)
   * [Atomic Design Pattern](etc/article/atomic-design-pattern.md)
+  * [프론트엔드 개발자](etc/article/undefined.md)

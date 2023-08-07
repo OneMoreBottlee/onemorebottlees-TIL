@@ -14,7 +14,7 @@
 
 
 
-### 1. 관련 아티클 모음
+### 1. 관련 아티클
 
 #### Atomic Design Pattern의 Best Practice 여정기
 
