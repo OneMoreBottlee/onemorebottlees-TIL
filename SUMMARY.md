@@ -141,7 +141,9 @@
   * [Ch.14 구문 확장](book/undefined/ch.14.md)
   * [Ch.15 타입 운영](book/undefined/ch.15.md)
   * [용어 사전](book/undefined/undefined.md)
-* [(yet) 자바스크립트 완벽 가이드](book/yet.md)
+* [자바스크립트 완벽 가이드](book/undefined-1.md)
+* [SQL in 10 Minutes](book/sql-in-10-minutes.md)
+* [면접을 위한 CS 전공지식 노트](book/cs.md)
 
 ## 💻 Study
 
