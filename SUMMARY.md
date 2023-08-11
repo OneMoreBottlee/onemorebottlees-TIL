@@ -142,7 +142,8 @@
   * [Ch.15 타입 운영](book/undefined/ch.15.md)
   * [용어 사전](book/undefined/undefined.md)
 * [자바스크립트 완벽 가이드](book/undefined-1.md)
-* [SQL in 10 Minutes](book/sql-in-10-minutes.md)
+* [SQL in 10 Minutes](book/sql-in-10-minutes/README.md)
+  * [1장 SQL 이해하기](book/sql-in-10-minutes/1-sql.md)
 * [면접을 위한 CS 전공지식 노트](book/cs.md)
 
 ## 💻 Study
