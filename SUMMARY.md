@@ -144,6 +144,7 @@
 * [자바스크립트 완벽 가이드](book/undefined-1.md)
 * [SQL in 10 Minutes](book/sql-in-10-minutes/README.md)
   * [1장 SQL 이해하기](book/sql-in-10-minutes/1-sql.md)
+  * [2장 데이터 가져오기](book/sql-in-10-minutes/2.md)
 * [면접을 위한 CS 전공지식 노트](book/cs.md)
 
 ## 💻 Study
