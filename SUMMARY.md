@@ -145,7 +145,9 @@
 * [SQL in 10 Minutes](book/sql-in-10-minutes/README.md)
   * [1장 SQL 이해하기](book/sql-in-10-minutes/1-sql.md)
   * [2장 데이터 가져오기](book/sql-in-10-minutes/2.md)
-* [면접을 위한 CS 전공지식 노트](book/cs.md)
+* [면접을 위한 CS 전공지식 노트](book/cs/README.md)
+  * [4 데이터베이스](book/cs/4/README.md)
+    * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)
 
 ## 💻 Study
 
