@@ -21,9 +21,9 @@ NextJS 공식 문서를 보면, NextJS에서 일반적인 img 태그를 사용�
 
 
 
-<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>에러 발생 원인과 수정 방법</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption><p>에러 발생 원인과 수정 방법</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>NextJS가 제시하는 2가지 수정 방법</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>NextJS가 제시하는 2가지 수정 방법</p></figcaption></figure>
 
 해결 방법은 Image 태그를 사용하거나 picture 태그에 img 태그를 포함시키는 것이란다.
 

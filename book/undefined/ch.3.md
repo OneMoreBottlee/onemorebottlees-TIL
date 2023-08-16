@@ -21,7 +21,7 @@
 
 #### 3.1.1 유니언 타입 선언
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 변수의 초깃값이 있더라도 변수에 대한 명시적 타입 애너테이션을 제공하는 것이 유용할 때 유니언 타입을 사용한다. 유니언 타입 선언은 타입 애너테이션으로 타입을 정의하는 모든 곳에서 사용 가능하다.
 
@@ -140,11 +140,11 @@ test의 타입은 string 일 수도 undefined 일 수도 있다. if 문을 활�
 
 타입스크립트는 값이 할당되기 전 속성 중 하나에 접근하려 시도하면 다음과 같은 오류 메시지가 나타난다.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 하지만 변수 타입에 undefined가 포함되어 있는 경우에는 오류가 보고되지 않는다.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
