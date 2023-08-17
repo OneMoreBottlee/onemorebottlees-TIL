@@ -70,5 +70,5 @@ Player 의 모든 메서드, 프로퍼티 사용 가능
 
 자식 클래스에 생성자를 추가할 때 사용
 
-![](<../../../.gitbook/assets/image (170).png>)![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (170).png>)![](<../../../.gitbook/assets/image (2) (1) (1).png>)
 
