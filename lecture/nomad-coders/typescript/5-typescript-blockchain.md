@@ -127,7 +127,7 @@ JS에서 작성한 함수 모듈을 TS에 가져와 사용하면 에러가 발�
 
 JS 파일을 TS 와 같이 보호하고 싶을때 JS 첫 줄에 아래와 같이 주석을 추가한다.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 TS 파일이 JS 파일을 검사해 오류를 확인하고, 위와 같이 오류를 활성시켜 개발자에게 알려준다.
 

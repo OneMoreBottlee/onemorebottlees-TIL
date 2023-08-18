@@ -148,6 +148,7 @@
   * [3장 가져온 데이터 정렬하기](book/sql-in-10-minutes/3.md)
   * [4장 데이터 필터링](book/sql-in-10-minutes/4.md)
   * [5장 고급 데이터 필터링](book/sql-in-10-minutes/5.md)
+  * [6장 와일드카드 문자를 이용한 필터링](book/sql-in-10-minutes/6.md)
 * [면접을 위한 CS 전공지식 노트](book/cs/README.md)
   * [4 데이터베이스](book/cs/4/README.md)
     * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)

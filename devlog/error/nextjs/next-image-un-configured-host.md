@@ -6,7 +6,7 @@ description: 230719 과제 디벨롭 중 발견한 에러
 
 ### 문제상황
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 과제의 404 페이지를 만들면서 외부 url에서 이미지 소스를 가지고 오는 코드를 작성했다. 그때 발생한 에러.
 
@@ -28,7 +28,7 @@ SSR인 Nextjs는 서버에서 코드를 실행한 후 브라우저에 화면을 
 
 </div>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 이는 악의적인 사용을 방지하기 위한 [**remotePatterns**](https://nextjs.org/docs/app/api-reference/components/image#remotepatterns)이다.
 
@@ -36,13 +36,13 @@ SSR인 Nextjs는 서버에서 코드를 실행한 후 브라우저에 화면을 
 
 ### 문제해결
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 next.config.js 파일에 이미지를 가져올 url의 정보를 남겨두면 해결된다. 위의 방법처럼 세부적으로 정보를 구분하는 방법도 있고 밑의 방법처럼 넓게 가져가는 방법도 있다.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 해결완료
 
