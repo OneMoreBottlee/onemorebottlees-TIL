@@ -152,6 +152,7 @@
   * [7장 계산 필드 생성하기](book/sql-in-10-minutes/7.md)
   * [8장 데이터 조작 함수 사용하기](book/sql-in-10-minutes/8.md)
   * [9장 데이터 요약](book/sql-in-10-minutes/9.md)
+  * [10장 데이터 그룹핑](book/sql-in-10-minutes/10.md)
 * [면접을 위한 CS 전공지식 노트](book/cs/README.md)
   * [4 데이터베이스](book/cs/4/README.md)
     * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)
