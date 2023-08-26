@@ -36,7 +36,7 @@ SSR인 Nextjs는 서버에서 코드를 실행한 후 브라우저에 화면을 
 
 ### 문제해결
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 next.config.js 파일에 이미지를 가져올 url의 정보를 남겨두면 해결된다. 위의 방법처럼 세부적으로 정보를 구분하는 방법도 있고 밑의 방법처럼 넓게 가져가는 방법도 있다.&#x20;
 

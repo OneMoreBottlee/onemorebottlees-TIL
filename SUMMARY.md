@@ -183,10 +183,12 @@
 
 ## 🔄 ETC
 
-* [Ubuntu](etc/ubuntu/README.md)
-  * [어플리케이션 업데이트](etc/ubuntu/undefined.md)
 * [Article](etc/article/README.md)
   * [Atomic Design Pattern](etc/article/atomic-design-pattern.md)
   * [프론트엔드 개발자](etc/article/undefined.md)
-* [Oracle](etc/oracle/README.md)
-  * [CEIL() & FLOOR() - 소수점 올림 & 내림](etc/oracle/ceil-and-floor-and.md)
+* [DATABASE](etc/database/README.md)
+  * [Oracle](etc/database/oracle/README.md)
+    * [CEIL() & FLOOR() - 소수점 올림 & 내림](etc/database/oracle/ceil-and-floor-and.md)
+    * [DUAL 테이블 - 임시 테이블로 결과 확인하기](etc/database/oracle/dual.md)
+* [Ubuntu](etc/ubuntu/README.md)
+  * [어플리케이션 업데이트](etc/ubuntu/undefined.md)
