@@ -1,6 +1,6 @@
 # 면접을 위한 CS 전공지식 노트
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 기본적인 CS 개념을 배워보자 !&#x20;
 
