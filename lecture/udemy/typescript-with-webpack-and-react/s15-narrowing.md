@@ -44,7 +44,7 @@ x의 타입과 y의 타입에서 동일한 부분은 string 이라는 점을 이
 
 객체의 성질을 사용해 타입을 좁힌다.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2개의 인터페이스에서 특정할 수 있는 속성을 확인해 타입을 좁힌다.
 
