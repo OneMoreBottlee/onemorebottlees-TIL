@@ -155,6 +155,7 @@
   * [10장 데이터 그룹핑](book/sql-in-10-minutes/10.md)
   * [11장 서브쿼리 사용하기](book/sql-in-10-minutes/11.md)
   * [12장 테이블 조인](book/sql-in-10-minutes/12.md)
+  * [13장 고급 테이블 조인 생성하기](book/sql-in-10-minutes/13.md)
 * [면접을 위한 CS 전공지식 노트](book/cs/README.md)
   * [4 데이터베이스](book/cs/4/README.md)
     * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)

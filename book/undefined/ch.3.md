@@ -21,7 +21,7 @@
 
 #### 3.1.1 유니언 타입 선언
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 변수의 초깃값이 있더라도 변수에 대한 명시적 타입 애너테이션을 제공하는 것이 유용할 때 유니언 타입을 사용한다. 유니언 타입 선언은 타입 애너테이션으로 타입을 정의하는 모든 곳에서 사용 가능하다.
 
