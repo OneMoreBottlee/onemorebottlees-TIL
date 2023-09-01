@@ -110,7 +110,7 @@ NextJS에 CSS를 추가하는 방법
 
 className={”이름1 이름2”} 와 같은 형태가 되야되기에 백틱으로 연결하거나 배열을 join하는 방법을 이용함
 
-<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **#1.5 Style JSX**
 

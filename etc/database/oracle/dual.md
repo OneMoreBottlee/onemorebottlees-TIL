@@ -12,9 +12,9 @@ DUAL 테이블이란 ORACLE, MYSQL 등 DBMS 자체에서 제공되는 더미 테
 
 ## EX
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>DUAL 테이블에 새로운 데이터를 추가해 출력할 수 있다.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>DUAL 테이블에 새로운 데이터를 추가해 출력할 수 있다.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>가상의 데이터로 연습시 사용할 수 있다.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>가상의 데이터로 연습시 사용할 수 있다.</p></figcaption></figure>
 
 
 

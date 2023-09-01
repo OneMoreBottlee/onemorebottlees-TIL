@@ -132,7 +132,7 @@ extends 타입 을 추가하면서 에러가 발생하게 된다.
 
 조건에 인터페이스를 추가할 수 도 있다.
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -150,7 +150,7 @@ length 가 없기에 인터페이스를 추가한다.
 
 <figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \<T = number> 로 기본값이 설정됨
 
