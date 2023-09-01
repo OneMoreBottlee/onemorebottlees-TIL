@@ -158,6 +158,7 @@
   * [13장 고급 테이블 조인 생성하기](book/sql-in-10-minutes/13.md)
   * [14장 쿼리 결합하기](book/sql-in-10-minutes/14.md)
   * [15장 데이터 삽입하기](book/sql-in-10-minutes/15.md)
+  * [16장 데이터 업데이트와 삭제](book/sql-in-10-minutes/16.md)
 * [면접을 위한 CS 전공지식 노트](book/cs/README.md)
   * [4 데이터베이스](book/cs/4/README.md)
     * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)
