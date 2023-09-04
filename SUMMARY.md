@@ -161,6 +161,7 @@
   * [16장 데이터 업데이트와 삭제](book/sql-in-10-minutes/16.md)
   * [17장 테이블 생성과 조작](book/sql-in-10-minutes/17.md)
   * [18장 뷰 사용하기](book/sql-in-10-minutes/18.md)
+  * [19장 저장 프로시저 사용하기](book/sql-in-10-minutes/19.md)
 * [면접을 위한 CS 전공지식 노트](book/cs/README.md)
   * [4 데이터베이스](book/cs/4/README.md)
     * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)
