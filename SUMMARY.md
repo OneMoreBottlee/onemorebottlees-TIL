@@ -163,6 +163,7 @@
   * [18장 뷰 사용하기](book/sql-in-10-minutes/18.md)
   * [19장 저장 프로시저 사용하기](book/sql-in-10-minutes/19.md)
   * [20장 트랜잭션 처리 관리하기](book/sql-in-10-minutes/20.md)
+  * [21장 커서 사용하기](book/sql-in-10-minutes/21.md)
 * [면접을 위한 CS 전공지식 노트](book/cs/README.md)
   * [4 데이터베이스](book/cs/4/README.md)
     * [4.1 데이터베이스의 기본](book/cs/4/4.1.md)
