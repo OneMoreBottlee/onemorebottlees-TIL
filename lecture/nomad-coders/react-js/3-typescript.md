@@ -26,7 +26,7 @@ console.log(plus(a+b)) // error !!
 
 [TS Playground - An online editor for exploring TypeScript and JavaScript](https://www.typescriptlang.org/play?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCbvCwDKgU8JkY7p7ehCTkVDQS2E6gnPCxGcwmZqDSTgzxxWWVoASMFmgYkAAeRJTInN3ymj4d-jSCeNsMq-wuoPaOltigAKoASgAywhK7SbGQZIIz5VWCFzSeCrZagNYbChbHaxUDcCjJZLfSDbExIAgUdxkUBIursJzCFJtXydajBBCcQQ0MwAUVWDEQC0gADVHBQGNJ3KAALygABEAAkYNAMOB4GRonzFBTBPB3AERcwABS0+mM9ysygc9wASmCKhwzQ8ZC8iHFzmB7BoXzcZmY7AYzEg-Fg0HUiQ58D0Ii8fLpDKZgj5SWxfPADlQAHJhAA5SASPlBFQAeS+ZHegmdWkgR1QjgUrmkeFATjNOmGWH0KAQiGhwkuNok4uiIgMHGxCyYrA4PCCJSAA)
 
-
+***
 
 ### #3.1 DefinitelyTyped
 
@@ -47,7 +47,7 @@ REACT에 타입 스크립트 설치
     yarn add typescript @types/node @types/react @types/react-dom @types/jest @types/style-components
     ```
 
-
+***
 
 ### #3.2 Typing the Props
 
@@ -65,7 +65,7 @@ function Dummy({ text } : DummyProps){  // text의 타입은 DummyProps에서 �
 }
 ```
 
-
+***
 
 ### #3.3 Optional Props
 
@@ -94,7 +94,7 @@ function Circle({ text= "default text"}){
 }
 ```
 
-
+***
 
 ### #3.4 State
 
@@ -115,7 +115,7 @@ const [value, setValue] = useState<number|string>(0);
 // value의 타입은 number나 string임 !
 ```
 
-
+***
 
 ### #3.5 Forms
 
@@ -150,7 +150,7 @@ export default App;
 
 event 함수 부분에서 event에 타입을 설정할 수 있음
 
-
+***
 
 ### #3.6 Themes
 
@@ -162,7 +162,7 @@ index.tsx에서 테마를 import
 
 app.tsx에서 props로 받아 사용한다.
 
-
+***
 
 ### #3.7 Recap
 
@@ -184,3 +184,4 @@ etc..
 
 [SyntheticEvent - React](https://reactjs.org/docs/events.html)
 
+***

@@ -48,7 +48,7 @@ ctx.arc(x,y, 반지름, startAngle, endAngle) // 원 그리기
 
 ```
 
-
+***
 
 ### #2 Painting Board
 

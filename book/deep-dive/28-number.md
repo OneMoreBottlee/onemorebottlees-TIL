@@ -10,7 +10,7 @@ const numObj = new Number(10)
 console.log(numObj) // Number{[[PrimitiveValue]]: 10}
 ```
 
-
+***
 
 ### 28.2 Number 프로퍼티
 
@@ -46,7 +46,7 @@ JS에서 표현할 수 있는 가장 작은 정수값
 
 숫자가 아님을 나타내는 숫자값
 
-
+***
 
 ### 28.3 Number 메서드
 

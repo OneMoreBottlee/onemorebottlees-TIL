@@ -6,7 +6,7 @@ Vanilla JS
 
 1씩 더하고 빼는 기능 구현
 
-
+***
 
 ### #1.1 **Store and Reducer**
 
@@ -30,7 +30,7 @@ const store = createStore(reducer) // reducer에 store 역할 부여
 //reducer의 return 값이 state가 됨
 ```
 
-
+***
 
 ### #1.2 **Actions**
 
@@ -59,7 +59,7 @@ reducer.dispatch({type: "MINUS"}) //count = count-1 => 1 - 1 =0
 console.log(countStore.getState()) // 0 > 1 > 0
 ```
 
-
+***
 
 ### #1.3 **Subscriptions**
 
@@ -106,7 +106,7 @@ add.addEventListener("click", () => store.dispatch({type: "ADD"}))     // 1번
 minus.addEventListener("click", () => store.dispatch({type: "MINUS"})) // 2번
 ```
 
-
+***
 
 ### #1.4 **Recap Refactor**
 
@@ -158,3 +158,4 @@ add.addEventListener("click", handleAdd)
 minus.addEventListener("click", handleMinus)
 ```
 
+***

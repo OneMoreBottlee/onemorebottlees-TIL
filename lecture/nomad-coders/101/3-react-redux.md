@@ -6,7 +6,7 @@ REACT로 기본 세팅
 
 react, react router dom 설치 & 세팅
 
-
+***
 
 ### #3.1 **Connecting the Store**
 
@@ -33,7 +33,7 @@ react로 연결하는 과정에서 Provider 사용
     )
     ```
 
-
+***
 
 ### #3.2 **mapStateToProps**
 
@@ -84,7 +84,7 @@ mapStateToProps = useSelector = getState state를 가져오는 역할
     export default connect(mapStateToProps)(Home);
     ```
 
-
+***
 
 ### #3.3 **mapDispatchToProps**
 
@@ -176,7 +176,7 @@ Hooks를 사용해 useDispatch, useSelector를 사용한다.
     export default Home;
     ```
 
-
+***
 
 ### #3.4 **Deleting To Do**
 
@@ -248,7 +248,7 @@ onClick 함수를 만들어 deleteToDo함수를 디스패치 할 수 있도록 �
     export default ToDo;
     ```
 
-
+***
 
 ### #3.5 **Detail Screen**
 
@@ -278,7 +278,7 @@ onClick 함수를 만들어 deleteToDo함수를 디스패치 할 수 있도록 �
     export default Detail;
     ```
 
-
+***
 
 ### #3.6 Introduction
 
@@ -363,3 +363,4 @@ index.js - PersistGate
     );
     ```
 
+***
