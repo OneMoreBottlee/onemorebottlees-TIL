@@ -40,6 +40,8 @@
     * [#3 Functions](lecture/nomad-coders/typescript/3-functions.md)
     * [#4 Classes and Interfaces](lecture/nomad-coders/typescript/4-classes-and-interfaces.md)
     * [#5 TypeScript Blockchain](lecture/nomad-coders/typescript/5-typescript-blockchain.md)
+  * [SQL Master Class](lecture/nomad-coders/sql-master-class/README.md)
+    * [#1 Introduction](lecture/nomad-coders/sql-master-class/1-introduction.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)
