@@ -43,6 +43,7 @@
   * [SQL Master Class](lecture/nomad-coders/sql-master-class/README.md)
     * [#1 Introduction](lecture/nomad-coders/sql-master-class/1-introduction.md)
     * [#2 SQLite](lecture/nomad-coders/sql-master-class/2-sqlite.md)
+    * [#3 Data Definition Language](lecture/nomad-coders/sql-master-class/3-data-definition-language.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)
