@@ -125,7 +125,7 @@ CREATE TABLE users (
   
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL,
   birth_date DATE NOT NULL,
-  bed_tiem TIME NOT NULL,
+  bed_time TIME NOT NULL,
   graduation_year YEAR NOT NULL,
   -- 1901 to 2155
   
@@ -137,12 +137,108 @@ CREATE TABLE users (
 
 
 
-## #7.6
+## #7.6 Insert Into Values
 
-## #7.7
+```sql
+INSERT INTO users (
+  username,
+  email,
+  gender,
+  interests,
+  bio,
+  age,
+  is_admin,
+  birth_date,
+  bed_time,
+  graduation_year
+) VALUES (
+  'MR. NOBODY',
+  'mr@nobody.com',
+  'Male',
+  'Travel,Food,Technology',
+  'I like traveling',
+  18,
+  True,
+  '1999-05-09', -- 19990509 1999/05/09
+  '22:00', -- 223000 22:30 22
+  1976
+);
+```
 
-## #7.8
 
-## #7.9
 
-## #7.10
+## #7.7 ALTER TABLE
+
+```sql
+
+-- drop column
+ALTER TABLE users DROP COLUMN profile_picture;
+
+-- rename column
+ALTER TABLE users CHANGE COLUMN about_me about_me TEXT; -- 컬럼이름과 타입 함께 바꿀떄
+
+-- change the column type
+ALTER TABLE users MODIFY COLUMN about_me TINYTEXT;
+
+-- rename database
+ALTER TABLE users RENAME TO customers;
+ALTER TABLE customers RENAME TO users;
+
+-- drop constratints
+ALTER TABLE users DROP CONSTRAINT uq_email;
+ALTER TABLE users DROP CONSTRAINT username, DROP CONSTRAINT chk_age;
+
+-- adding constraints
+ALTER TABLE users ADD CONSTRAINT uq_email UNIQUE (email), ADD CONSTRAINT uq_username UNIQUE (username);
+
+ALTER TABLE users ADD CONSTRAINT chk_age CHECK (age < 100);
+
+-- add or remove a NULL constraint
+ALTER TABLE users MODIFY COLUMN bed_time TIME NULL;
+ALTER TABLE users MODIFY COLUMN bed_time TIME NOT NULL;
+
+SHOW CREATE TABLE users;
+```
+
+
+
+## #7.8 ALTER TABLE Part Two
+
+```sql
+ALTER TABLE users MODIFY COLUMN graduation_year DATE; -- error 기존 값
+
+ALTER TABLE users ADD COLUMN graduation_date DATE NOT NULL DEFAULT MAKEDATE(grdutaion_year, 1);
+
+UPDATE users SET graduation_date = MAKEDATE(graduation_year, 1);
+
+ALTER TABLE users DROP COLUMN graduation_year;
+
+ALTER TABLE users MODIFY COLUMN graduation_date DATE NOT NULL;
+```
+
+
+
+## #7.9 Generated Columns
+
+다른 컬럼을 사용하여 값을 도출하는 컬럼
+
+```sql
+CREATE TABLE users_v2 (
+  user_id BIGINT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+  first_name VARCHAR(50),
+  last_name VARCHAR(50),
+  email VARCHAR(100),
+  full_name VARCHAR(101) GENERATED ALWAYS AS (CONCAT(first_name, ' ', last_name)) STORED
+  -- STORED 데이터를 디스크에 저장됨
+);
+
+ALTER TABLE users_v2 ADD COLUMN email_domain VARCHAR(50) GENERATED ALWAYS AS (SUBSTRING_INDEX(email, '@', -1)) virtual;
+-- VIRTUAL 데이터를 디스크에 저장하지 않아도 되지만 조회시 불이익
+```
+
+
+
+## #7.10 Data Import
+
+
+
