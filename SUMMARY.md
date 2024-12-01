@@ -49,6 +49,7 @@
     * [#6 Indexes](lecture/nomad-coders/sql-master-class/6-indexes.md)
     * [#7 MySQL](lecture/nomad-coders/sql-master-class/7-mysql.md)
     * [#8 Foreign Keys](lecture/nomad-coders/sql-master-class/8-foreign-keys.md)
+    * [#9 JOINS](lecture/nomad-coders/sql-master-class/9-joins.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)
