@@ -235,7 +235,38 @@ RIGHT OUTER JOIN = RIGHT JOIN
 
 ## #9.4 JOINS Practice Part 1
 
+```sql
+-- 1. List all dogs with their breed names
+SELECT dogs.name, breeds.name
+FROM dogs JOIN breeds USING(breed_id);
 
+-- 2. Show all owners and their dogs (if they have any)
+SELECT owners.name, dogs.name
+FROM owners JOIN dogs USING(owner_id);
+
+-- 3. Display all breeds and the dogs of that breed (if any)
+SELECT breeds.name, dogs.name
+FROM breeds JOIN dogs USING(breed_id);
+
+-- 4. List all dogs with their pet passport information and owner data
+-- (if avaliable)
+SELECT 
+	d.name, pp.allergies, o.name
+FROM dogs d
+	JOIN pet_passports AS pp USING(dog_id)
+	JOIN owners o USING(owner_id);
+
+-- 5. Show all tricks and the dogs that know them
+SELECT t.name, d.name, dt.date_learned, dt.proficiency
+FROM tricks t
+	JOIN dog_tricks dt USING(trick_id)
+	JOIN dogs d USING(dog_id);
+
+-- 6. Display all dogs that don't know a single trick
+SELECT dogs.name
+FROM dogs LEFT JOIN dog_tricks USING(dog_id)
+WHERE dog_tricks.dog_id is null;
+```
 
 
 
