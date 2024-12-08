@@ -272,7 +272,39 @@ WHERE dog_tricks.dog_id is null;
 
 ## #9.5 JOINS Practice Part 2
 
+```sql
+-- 1. Show all breeds and the count of dogs for each breed
+SELECT breeds.name, COUNT(*)
+FROM breeds RIGHT JOIN dogs USING(breed_id)
+GROUP BY breeds.name;
 
+-- 2. Display all owners with the count of their dogs, the average dog weight and the average dog age.
+SELECT owners.name AS OWNER_NAME,
+    count(dogs.dog_id) AS TOTAL_DOGS,
+    avg(weight) AS AVG_WEIGHT,
+    avg(timestampdiff(YEAR, dogs.date_of_birth, CURDATE())) as AVG_AGE
+FROM owners JOIN dogs USING(owner_id)
+GROUP BY owners.owner_id
+
+-- 3. Show all tricks and the number of dogs that know each trick ordered by popularity
+SELECT tricks.name, count(*) AS TOTAL_DOGS
+FROM dog_tricks	JOIN tricks USING(trick_id)
+GROUP BY dog_tricks.trick_id
+ORDER BY TOTAL_DOGS DESC;
+
+-- 4. Display all dogs along with the count of tricks they know
+SELECT dogs.name, count(*) AS CNT_TRICKS
+FROM dogs JOIN dog_tricks USING(dog_id)
+GROUP BY dogs.dog_id
+ORDER BY CNT_TRICKS DESC;
+
+-- 5. List all owner with their dogs and the tricks their dogs know
+SELECT owners.name, dogs.name, tricks.name
+FROM owners
+    JOIN dogs USING(owner_id)
+  JOIN dog_tricks USING(dog_id)
+  JOIN tricks USING(trick_id);
+```
 
 
 
