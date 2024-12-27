@@ -75,9 +75,109 @@ CREATE TABLE users (
 
 ## #13.5 Type Casting
 
+[https://www.postgresql.org/docs/8.1/functions-datetime.html](https://www.postgresql.org/docs/8.1/functions-datetime.html)
+
+```sql
+INSERT INTO users (
+	username,
+  email,
+  gender,
+  interest,
+  bio,
+  age,
+  is_admin,
+  bitrh_date,
+  bed_time,
+  graduation_year,
+  internship_period
+) VALUES (
+	'nico',
+  'nico@n.com',
+  'male',
+  ARRAY['tect', 'music', 'travel'],
+  'i like eating and traveling',
+  18,
+  TRUE,
+  '1990-01-01',
+  '21:00:00',
+  1993,
+  '2 years 6 months'
+);
+
+SELECT joined_at::date FROM users;
+SELECT joined_at::time FROM users;
+
+SELECT 
+	joined_at::date as joined_date,
+  EXTRACT(YEAR FROM joined_at) as joined_year,
+  joined_at - INTERVAL '1 day' as day_before_joining,
+  AGE(bitrh_date) as age
+FROM users;
+```
 
 
 
+## #13.7 UNNEST
+
+```sql
+CREATE TABLE genres (
+  genre_id BIGINT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  name VARCHAR(50) UNIQUE,
+  created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL,
+  updated_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL
+)
 
 
+INSERT INTO
+	genres (name)
+  SELECT DISTINCT UNNEST(string_to_array(genres, ',')) FROM movies GROUP BY genres;
+  
+CREATE TABLE movies_genres (
+  movie_id BIGINT NOT NULL,
+  genre_id BIGINT NOT NULL,
+	created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL,
+  updated_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL,
+  
+  PRIMARY KEY (movie_id, genre_id),
+  FOREIGN KEY (movie_id) REFERENCES movies (movie_id),
+  FOREIGN KEY (genre_id) REFERENCES genres (genre_id)
+);
+
+INSERT INTO movies_genres (movie_id, genre_id)
+  SELECT movies.movie_id, genres.genre_id
+  FROM movies
+    JOIN genres ON movies.genres LIKE '%' || genres.name || '%';
+    
+ALTER TABLE movies DROP COLUMN genres;
+```
+
+
+
+## #13.8 FULL OUTER JOIN
+
+```sql
+ALTER TABLE movies ALTER COLUMN xxx TYPE TEXT;
+
+ALTER TABLE movies RENAME COLUMN xxx TO ZZZ;
+
+ALTER TABLE movies ADD PRIMARY KEY (movie_id);
+
+ALTER TABLE movies
+ADD CONSTRAINT fk
+FOREIGN KEY (director_id) REFERENCES directors(director_id);
+
+ALTER TABLE movies
+ADD CONSTRAINT check_rating CHECK (rating BETWEEN 1 AND 10);
+
+ALTER TABLE movies DROP CONSTRAINT check_rating;
+ALTER TABLE movies ALTER COLUMN created_at SET DEFAULT CURRENT_TIMESTAMP;
+ALTER TABLE movies RENAME TO movies_;
+ALTER TABLE movies ADD CONSTRAINT unique_title UNIQUE (title);
+ALTER TABLE movies ALTER COLUMN zzz SET NOT NULL;
+
+ALTER TABLE movies
+ADD COLUMN likes INT,
+ADD COLUMN dislikes INT;
+
+```
 
