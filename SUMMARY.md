@@ -54,6 +54,7 @@
     * [#11 Events & Triggers](lecture/nomad-coders/sql-master-class/11-events-and-triggers.md)
     * [#12 Full-Text Indexes](lecture/nomad-coders/sql-master-class/12-full-text-indexes.md)
     * [#13 PostgreSQL](lecture/nomad-coders/sql-master-class/13-postgresql.md)
+    * [#14 Functions And Procedures](lecture/nomad-coders/sql-master-class/14-functions-and-procedures.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)
