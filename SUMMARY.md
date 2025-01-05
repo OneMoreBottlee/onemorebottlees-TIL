@@ -57,6 +57,7 @@
     * [#14 Functions And Procedures](lecture/nomad-coders/sql-master-class/14-functions-and-procedures.md)
     * [#15 Transactions](lecture/nomad-coders/sql-master-class/15-transactions.md)
     * [#16 Data Control Language](lecture/nomad-coders/sql-master-class/16-data-control-language.md)
+    * [#17 PostgreSQL JSON Columns](lecture/nomad-coders/sql-master-class/17-postgresql-json-columns.md)
 * [Udemy](lecture/udemy/README.md)
   * [TypeScript 마스터 with Webpack & React](lecture/udemy/typescript-with-webpack-and-react/README.md)
     * [\[S1\] 소개](lecture/udemy/typescript-with-webpack-and-react/s1.md)
